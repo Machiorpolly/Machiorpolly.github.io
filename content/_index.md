@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title:
 date: 2023-10-24
 type: landing
 
@@ -24,5 +24,5 @@ sections:
       buttons:
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://www.linkedin.com/in/himanshu-saini-696b63233/
 ---

@@ -1,6 +1,6 @@
 # [Fast & Flexible Link In Bio Theme](https://github.com/HugoBlox/theme-link-in-bio)
 
-[![Screenshot](./.github/preview.webp)](https://hugoblox.com/templates/)
+
 
 The **Fast & Flexible Link In Bio Template** empowers you to easily create a personalized and customizable page that houses all the important links that you want to share with your audience.
 
